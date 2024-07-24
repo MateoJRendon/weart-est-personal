@@ -1,0 +1,9 @@
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+{'datatype': 'stress', 'testrun': 'short-test', 'submittedtime': datetime.datetime(2024, 6, 5, 16, 22, 55, 952405), 'time': 0, 'values': []}
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'short-test', 'submittedtime': datetime.datetime(2024, 6, 5, 16, 23, 17, 577953), 'time': 10, 'values': {'temp-0': -7.080078125, 'vstrs-0': 0.7978515625, 'vstrs-1': 0.900390625, 'ro-rvt-2-6': 0.0, 'frqsilc-n-med-2-3': 0.0, 'anasilc-p-hvt-med-1-5': 0.0, 'em-i2-1': 0.5244140625}}
+TEST COMPLETE

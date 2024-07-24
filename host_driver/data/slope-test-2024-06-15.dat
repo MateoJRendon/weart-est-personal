@@ -1,0 +1,847 @@
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 20, 47, 41, 559398), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.84619140625, 'anasilc-single-n-1-1': 0.11865234375, 'anasilc-n-rvt-big-1-1': 0.13037109375, 'anasilc-single-n-2-1': 0.17431640625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 20, 50, 36, 232396), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.8984375, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.84716796875, 'anasilc-single-n-1-1': 0.0888671875, 'anasilc-n-rvt-big-1-1': 0.0732421875, 'anasilc-single-n-2-1': 0.1708984375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 20, 51, 10, 973229), 'time': 0, 'values': {'vstrs-0': 0.8037109375, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.8525390625, 'anasilc-single-n-1-1': 0.11865234375, 'anasilc-n-rvt-big-1-1': 0.10693359375, 'anasilc-single-n-2-1': 0.16943359375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 20, 56, 8, 948588), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.849609375, 'anasilc-single-n-1-1': 0.0146484375, 'anasilc-n-rvt-big-1-1': 0.05908203125, 'anasilc-single-n-2-1': 0.1630859375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 20, 56, 40, 847076), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.8974609375, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.84814453125, 'anasilc-single-n-1-1': 0.0458984375, 'anasilc-n-rvt-big-1-1': 0.060546875, 'anasilc-single-n-2-1': 0.12841796875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 20, 57, 15, 486651), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.8974609375, 'vstrs-2': 0.70263671875, 'vstrs-3': 0.84619140625, 'anasilc-single-n-1-1': 0.0458984375, 'anasilc-n-rvt-big-1-1': 0.0908203125, 'anasilc-single-n-2-1': 0.1318359375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 20, 59, 26, 844806), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.900390625, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.849609375, 'anasilc-single-n-1-1': 0.00830078125, 'anasilc-n-rvt-big-1-1': 0.08544921875, 'anasilc-single-n-2-1': 0.22265625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 0, 10, 843086), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.7021484375, 'vstrs-3': 0.85302734375, 'anasilc-single-n-1-1': 0.03955078125, 'anasilc-n-rvt-big-1-1': 0.095703125, 'anasilc-single-n-2-1': 0.1328125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 0, 46, 913180), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.69921875, 'vstrs-3': 0.8486328125, 'anasilc-single-n-1-1': 0.0400390625, 'anasilc-n-rvt-big-1-1': 0.09521484375, 'anasilc-single-n-2-1': 0.22607421875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 2, 58, 795997), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.8486328125, 'anasilc-single-n-1-1': 0.03759765625, 'anasilc-n-rvt-big-1-1': 0.083984375, 'anasilc-single-n-2-1': 0.166015625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 3, 29, 732310), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.8974609375, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.84814453125, 'anasilc-single-n-1-1': 0.005859375, 'anasilc-n-rvt-big-1-1': 0.1708984375, 'anasilc-single-n-2-1': 0.16357421875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 4, 5, 500883), 'time': 0, 'values': {'vstrs-0': 0.79931640625, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.84912109375, 'anasilc-single-n-1-1': 0.005859375, 'anasilc-n-rvt-big-1-1': 0.0908203125, 'anasilc-single-n-2-1': 0.1572265625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 6, 2, 622708), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.896484375, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.849609375, 'anasilc-single-n-1-1': 0.00439453125, 'anasilc-n-rvt-big-1-1': 0.08056640625, 'anasilc-single-n-2-1': 0.21923828125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 6, 37, 407645), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.900390625, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.84912109375, 'anasilc-single-n-1-1': 0.00439453125, 'anasilc-n-rvt-big-1-1': 0.2041015625, 'anasilc-single-n-2-1': 0.22216796875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 7, 11, 923002), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.69921875, 'vstrs-3': 0.85009765625, 'anasilc-single-n-1-1': 0.00439453125, 'anasilc-n-rvt-big-1-1': 0.1748046875, 'anasilc-single-n-2-1': 0.15771484375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 9, 55, 182970), 'time': 0, 'values': {'vstrs-0': 0.8046875, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.69677734375, 'vstrs-3': 0.8486328125, 'anasilc-single-n-1-1': 0.00341796875, 'anasilc-n-rvt-big-1-1': 0.17724609375, 'anasilc-single-n-2-1': 0.126953125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 10, 27, 120334), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.849609375, 'anasilc-single-n-1-1': 0.03515625, 'anasilc-n-rvt-big-1-1': 0.07763671875, 'anasilc-single-n-2-1': 0.21630859375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 11, 0, 271508), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.69775390625, 'vstrs-3': 0.84716796875, 'anasilc-single-n-1-1': 0.00341796875, 'anasilc-n-rvt-big-1-1': 0.05810546875, 'anasilc-single-n-2-1': 0.16357421875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 13, 7, 812494), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.85009765625, 'anasilc-single-n-1-1': 0.0029296875, 'anasilc-n-rvt-big-1-1': 0.07080078125, 'anasilc-single-n-2-1': 0.166015625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 13, 39, 726696), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.8984375, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.849609375, 'anasilc-single-n-1-1': 0.0029296875, 'anasilc-n-rvt-big-1-1': 0.08251953125, 'anasilc-single-n-2-1': 0.13037109375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 14, 14, 542776), 'time': 0, 'values': {'vstrs-0': 0.80029296875, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.701171875, 'vstrs-3': 0.84912109375, 'anasilc-single-n-1-1': 0.0029296875, 'anasilc-n-rvt-big-1-1': 0.19775390625, 'anasilc-single-n-2-1': 0.2177734375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 16, 53, 694106), 'time': 0, 'values': {'vstrs-0': 0.8046875, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.69921875, 'vstrs-3': 0.84716796875, 'anasilc-single-n-1-1': 0.00244140625, 'anasilc-n-rvt-big-1-1': 0.06591796875, 'anasilc-single-n-2-1': 0.12841796875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 17, 30, 853063), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.69921875, 'vstrs-3': 0.84716796875, 'anasilc-single-n-1-1': 0.00244140625, 'anasilc-n-rvt-big-1-1': 0.0888671875, 'anasilc-single-n-2-1': 0.15869140625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 18, 7, 991159), 'time': 0, 'values': {'vstrs-0': 0.80517578125, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.70458984375, 'vstrs-3': 0.84765625, 'anasilc-single-n-1-1': 0.00244140625, 'anasilc-n-rvt-big-1-1': 0.20556640625, 'anasilc-single-n-2-1': 0.27685546875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 20, 56, 147182), 'time': 0, 'values': {'vstrs-0': 0.80029296875, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.85205078125, 'anasilc-single-n-1-1': 0.00244140625, 'anasilc-n-rvt-big-1-1': 0.1806640625, 'anasilc-single-n-2-1': 0.16162109375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 21, 33, 276868), 'time': 0, 'values': {'vstrs-0': 0.8046875, 'vstrs-1': 0.8984375, 'vstrs-2': 0.701171875, 'vstrs-3': 0.84619140625, 'anasilc-single-n-1-1': 0.00244140625, 'anasilc-n-rvt-big-1-1': 0.07421875, 'anasilc-single-n-2-1': 0.1103515625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 22, 6, 537998), 'time': 0, 'values': {'vstrs-0': 0.8046875, 'vstrs-1': 0.8984375, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.849609375, 'anasilc-single-n-1-1': 0.001953125, 'anasilc-n-rvt-big-1-1': 0.07421875, 'anasilc-single-n-2-1': 0.1650390625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 24, 23, 252971), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.8505859375, 'anasilc-single-n-1-1': 0.00146484375, 'anasilc-n-rvt-big-1-1': 0.0849609375, 'anasilc-single-n-2-1': 0.16650390625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 25, 8, 221069), 'time': 0, 'values': {'vstrs-0': 0.8056640625, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.70166015625, 'vstrs-3': 0.85009765625, 'anasilc-single-n-1-1': 0.00146484375, 'anasilc-n-rvt-big-1-1': 0.10595703125, 'anasilc-single-n-2-1': 0.16015625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 25, 38, 961036), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.69921875, 'vstrs-3': 0.85009765625, 'anasilc-single-n-1-1': 0.00146484375, 'anasilc-n-rvt-big-1-1': 0.1708984375, 'anasilc-single-n-2-1': 0.158203125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 28, 40, 33156), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.8984375, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.84912109375, 'anasilc-single-n-1-1': 0.00146484375, 'anasilc-n-rvt-big-1-1': 0.16650390625, 'anasilc-single-n-2-1': 0.173828125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 29, 43, 360114), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.90087890625, 'vstrs-2': 0.701171875, 'vstrs-3': 0.85009765625, 'anasilc-single-n-1-1': 0.00048828125, 'anasilc-n-rvt-big-1-1': 0.17041015625, 'anasilc-single-n-2-1': 0.1650390625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 30, 28, 840707), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.70166015625, 'vstrs-3': 0.84912109375, 'anasilc-single-n-1-1': 0.0009765625, 'anasilc-n-rvt-big-1-1': 0.17041015625, 'anasilc-single-n-2-1': 0.162109375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 32, 18, 216557), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.84716796875, 'anasilc-single-n-1-1': 0.0009765625, 'anasilc-n-rvt-big-1-1': 0.0849609375, 'anasilc-single-n-2-1': 0.18310546875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 32, 50, 134303), 'time': 0, 'values': {'vstrs-0': 0.8056640625, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.70263671875, 'vstrs-3': 0.8486328125, 'anasilc-single-n-1-1': 0.0009765625, 'anasilc-n-rvt-big-1-1': 0.0849609375, 'anasilc-single-n-2-1': 0.21240234375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 33, 23, 359681), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.900390625, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.8486328125, 'anasilc-single-n-1-1': 0.0009765625, 'anasilc-n-rvt-big-1-1': 0.17333984375, 'anasilc-single-n-2-1': 0.13232421875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 33, 55, 303258), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.8984375, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.84814453125, 'anasilc-single-n-1-1': 0.00146484375, 'anasilc-n-rvt-big-1-1': 0.056640625, 'anasilc-single-n-2-1': 0.16015625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 39, 2, 637549), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.849609375, 'anasilc-single-n-1-1': 0.00146484375, 'anasilc-n-rvt-big-1-1': 0.08984375, 'anasilc-single-n-2-1': 0.13330078125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 39, 34, 532304), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.6982421875, 'vstrs-3': 0.84814453125, 'anasilc-single-n-1-1': 0.0009765625, 'anasilc-n-rvt-big-1-1': 0.19775390625, 'anasilc-single-n-2-1': 0.22509765625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 40, 6, 420652), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.8974609375, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.84716796875, 'anasilc-single-n-1-1': 0.0009765625, 'anasilc-n-rvt-big-1-1': 0.083984375, 'anasilc-single-n-2-1': 0.1748046875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 41, 25, 635318), 'time': 0, 'values': {'vstrs-0': 0.80517578125, 'vstrs-1': 0.8974609375, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.84912109375, 'anasilc-single-n-1-1': 0.0009765625, 'anasilc-n-rvt-big-1-1': 0.08544921875, 'anasilc-single-n-2-1': 0.16064453125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 41, 57, 477564), 'time': 0, 'values': {'vstrs-0': 0.8037109375, 'vstrs-1': 0.8974609375, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.84716796875, 'anasilc-single-n-1-1': 0.0009765625, 'anasilc-n-rvt-big-1-1': 0.1962890625, 'anasilc-single-n-2-1': 0.2099609375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 42, 48, 986560), 'time': 0, 'values': {'vstrs-0': 0.80810546875, 'vstrs-1': 0.896484375, 'vstrs-2': 0.69921875, 'vstrs-3': 0.84716796875, 'anasilc-single-n-1-1': 0.0009765625, 'anasilc-n-rvt-big-1-1': 0.0859375, 'anasilc-single-n-2-1': 0.28173828125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 43, 41, 823879), 'time': 0, 'values': {'vstrs-0': 0.8037109375, 'vstrs-1': 0.896484375, 'vstrs-2': 0.70166015625, 'vstrs-3': 0.85009765625, 'anasilc-single-n-1-1': 0.00146484375, 'anasilc-n-rvt-big-1-1': 0.07666015625, 'anasilc-single-n-2-1': 0.158203125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 44, 16, 359320), 'time': 0, 'values': {'vstrs-0': 0.80517578125, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.8505859375, 'anasilc-single-n-1-1': 0.0009765625, 'anasilc-n-rvt-big-1-1': 0.169921875, 'anasilc-single-n-2-1': 0.171875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 44, 48, 294645), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.7021484375, 'vstrs-3': 0.849609375, 'anasilc-single-n-1-1': 0.0009765625, 'anasilc-n-rvt-big-1-1': 0.0849609375, 'anasilc-single-n-2-1': 0.22412109375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 45, 38, 607386), 'time': 0, 'values': {'vstrs-0': 0.806640625, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.69921875, 'vstrs-3': 0.85009765625, 'anasilc-single-n-1-1': 0.0009765625, 'anasilc-n-rvt-big-1-1': 0.087890625, 'anasilc-single-n-2-1': 0.16259765625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 46, 17, 81353), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.89599609375, 'vstrs-2': 0.70263671875, 'vstrs-3': 0.85009765625, 'anasilc-single-n-1-1': 0.00244140625, 'anasilc-n-rvt-big-1-1': 0.06640625, 'anasilc-single-n-2-1': 0.17138671875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 46, 52, 882555), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.701171875, 'vstrs-3': 0.8466796875, 'anasilc-single-n-1-1': 0.0009765625, 'anasilc-n-rvt-big-1-1': 0.07177734375, 'anasilc-single-n-2-1': 0.16748046875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 47, 48, 602264), 'time': 0, 'values': {'vstrs-0': 0.80712890625, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.85107421875, 'anasilc-single-n-1-1': 0.00146484375, 'anasilc-n-rvt-big-1-1': 0.0517578125, 'anasilc-single-n-2-1': 0.1279296875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 48, 23, 154856), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.84814453125, 'anasilc-single-n-1-1': 0.0, 'anasilc-n-rvt-big-1-1': 0.07958984375, 'anasilc-single-n-2-1': 0.13037109375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 48, 56, 338513), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.69921875, 'vstrs-3': 0.84619140625, 'anasilc-single-n-1-1': 0.00146484375, 'anasilc-n-rvt-big-1-1': 0.07763671875, 'anasilc-single-n-2-1': 0.13037109375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 49, 54, 440812), 'time': 0, 'values': {'vstrs-0': 0.8046875, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.6982421875, 'vstrs-3': 0.8466796875, 'anasilc-single-n-1-1': 0.00244140625, 'anasilc-n-rvt-big-1-1': 0.203125, 'anasilc-single-n-2-1': 0.15673828125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 50, 30, 285726), 'time': 0, 'values': {'vstrs-0': 0.8056640625, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.6982421875, 'vstrs-3': 0.85107421875, 'anasilc-single-n-1-1': 0.001953125, 'anasilc-n-rvt-big-1-1': 0.1240234375, 'anasilc-single-n-2-1': 0.162109375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 51, 6, 103055), 'time': 0, 'values': {'vstrs-0': 0.80517578125, 'vstrs-1': 0.900390625, 'vstrs-2': 0.70166015625, 'vstrs-3': 0.85009765625, 'anasilc-single-n-1-1': 0.00244140625, 'anasilc-n-rvt-big-1-1': 0.07861328125, 'anasilc-single-n-2-1': 0.12353515625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 52, 8, 57322), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.8974609375, 'vstrs-2': 0.6982421875, 'vstrs-3': 0.84765625, 'anasilc-single-n-1-1': 0.03466796875, 'anasilc-n-rvt-big-1-1': 0.12646484375, 'anasilc-single-n-2-1': 0.16357421875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 52, 43, 874923), 'time': 0, 'values': {'vstrs-0': 0.8076171875, 'vstrs-1': 0.90087890625, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.8515625, 'anasilc-single-n-1-1': 0.00244140625, 'anasilc-n-rvt-big-1-1': 0.1337890625, 'anasilc-single-n-2-1': 0.1279296875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 53, 17, 102569), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.70166015625, 'vstrs-3': 0.85107421875, 'anasilc-single-n-1-1': 0.00244140625, 'anasilc-n-rvt-big-1-1': 0.15869140625, 'anasilc-single-n-2-1': 0.21630859375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 54, 25, 922929), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.701171875, 'vstrs-3': 0.84912109375, 'anasilc-single-n-1-1': 0.0029296875, 'anasilc-n-rvt-big-1-1': 0.1630859375, 'anasilc-single-n-2-1': 0.154296875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 54, 59, 128324), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.84619140625, 'anasilc-single-n-1-1': 0.0029296875, 'anasilc-n-rvt-big-1-1': 0.08935546875, 'anasilc-single-n-2-1': 0.1572265625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 55, 36, 287343), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.85009765625, 'anasilc-single-n-1-1': 0.03515625, 'anasilc-n-rvt-big-1-1': 0.08349609375, 'anasilc-single-n-2-1': 0.154296875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 56, 48, 751667), 'time': 0, 'values': {'vstrs-0': 0.8076171875, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.701171875, 'vstrs-3': 0.84765625, 'anasilc-single-n-1-1': 0.00341796875, 'anasilc-n-rvt-big-1-1': 0.09814453125, 'anasilc-single-n-2-1': 0.16064453125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 57, 23, 247204), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.8984375, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.8505859375, 'anasilc-single-n-1-1': 0.00341796875, 'anasilc-n-rvt-big-1-1': 0.15625, 'anasilc-single-n-2-1': 0.154296875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 58, 4, 354451), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.7041015625, 'vstrs-3': 0.84765625, 'anasilc-single-n-1-1': 0.00341796875, 'anasilc-n-rvt-big-1-1': 0.2041015625, 'anasilc-single-n-2-1': 0.16259765625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 58, 59, 809779), 'time': 0, 'values': {'vstrs-0': 0.7998046875, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.8486328125, 'anasilc-single-n-1-1': 0.00439453125, 'anasilc-n-rvt-big-1-1': 0.1943359375, 'anasilc-single-n-2-1': 0.1640625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 21, 59, 33, 45576), 'time': 0, 'values': {'vstrs-0': 0.80712890625, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.6982421875, 'vstrs-3': 0.8505859375, 'anasilc-single-n-1-1': 0.00439453125, 'anasilc-n-rvt-big-1-1': 0.16357421875, 'anasilc-single-n-2-1': 0.1640625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 0, 10, 176753), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.900390625, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.84765625, 'anasilc-single-n-1-1': 0.03662109375, 'anasilc-n-rvt-big-1-1': 0.08935546875, 'anasilc-single-n-2-1': 0.16064453125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 1, 14, 840984), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.849609375, 'anasilc-single-n-1-1': 0.005859375, 'anasilc-n-rvt-big-1-1': 0.08935546875, 'anasilc-single-n-2-1': 0.16357421875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 1, 49, 318232), 'time': 0, 'values': {'vstrs-0': 0.8076171875, 'vstrs-1': 0.8984375, 'vstrs-2': 0.701171875, 'vstrs-3': 0.84765625, 'anasilc-single-n-1-1': 0.03759765625, 'anasilc-n-rvt-big-1-1': 0.123046875, 'anasilc-single-n-2-1': 0.12744140625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 2, 35, 590134), 'time': 0, 'values': {'vstrs-0': 0.80615234375, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.69921875, 'vstrs-3': 0.8486328125, 'anasilc-single-n-1-1': 0.03759765625, 'anasilc-n-rvt-big-1-1': 0.08203125, 'anasilc-single-n-2-1': 0.1318359375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 3, 42, 892388), 'time': 0, 'values': {'vstrs-0': 0.80029296875, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.70166015625, 'vstrs-3': 0.8515625, 'anasilc-single-n-1-1': 0.00830078125, 'anasilc-n-rvt-big-1-1': 0.08251953125, 'anasilc-single-n-2-1': 0.1279296875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 4, 17, 359045), 'time': 0, 'values': {'vstrs-0': 0.80517578125, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.85009765625, 'anasilc-single-n-1-1': 0.00830078125, 'anasilc-n-rvt-big-1-1': 0.07373046875, 'anasilc-single-n-2-1': 0.1669921875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 4, 51, 857979), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.900390625, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.849609375, 'anasilc-single-n-1-1': 0.00830078125, 'anasilc-n-rvt-big-1-1': 0.17138671875, 'anasilc-single-n-2-1': 0.130859375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 5, 49, 977169), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.8974609375, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.849609375, 'anasilc-single-n-1-1': 0.0146484375, 'anasilc-n-rvt-big-1-1': 0.095703125, 'anasilc-single-n-2-1': 0.16748046875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 6, 29, 703534), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.70166015625, 'vstrs-3': 0.84912109375, 'anasilc-single-n-1-1': 0.04638671875, 'anasilc-n-rvt-big-1-1': 0.06640625, 'anasilc-single-n-2-1': 0.16455078125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 7, 2, 973237), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.8974609375, 'vstrs-2': 0.7021484375, 'vstrs-3': 0.84814453125, 'anasilc-single-n-1-1': 0.0146484375, 'anasilc-n-rvt-big-1-1': 0.08447265625, 'anasilc-single-n-2-1': 0.216796875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 8, 7, 594037), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.90185546875, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.84814453125, 'anasilc-single-n-1-1': 0.11865234375, 'anasilc-n-rvt-big-1-1': 0.10302734375, 'anasilc-single-n-2-1': 0.16552734375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 8, 51, 261692), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.896484375, 'vstrs-2': 0.69921875, 'vstrs-3': 0.84912109375, 'anasilc-single-n-1-1': 0.11865234375, 'anasilc-n-rvt-big-1-1': 0.091796875, 'anasilc-single-n-2-1': 0.1259765625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 9, 23, 184705), 'time': 0, 'values': {'vstrs-0': 0.8046875, 'vstrs-1': 0.8984375, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.84912109375, 'anasilc-single-n-1-1': 0.1181640625, 'anasilc-n-rvt-big-1-1': 0.06494140625, 'anasilc-single-n-2-1': 0.16064453125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 38, 32, 655871), 'time': 0, 'values': {'vstrs-0': 0.80517578125, 'vstrs-1': 0.8984375, 'vstrs-2': 0.6962890625, 'vstrs-3': 0.849609375, 'anasilc-single-n-1-1': 0.1220703125, 'anasilc-n-rvt-big-1-1': 0.09765625, 'anasilc-single-n-2-1': 0.1181640625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 39, 53, 50507), 'time': 0, 'values': {'vstrs-0': 0.8037109375, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.8466796875, 'anasilc-single-n-1-1': 0.15869140625, 'anasilc-n-rvt-big-1-1': 0.22119140625, 'anasilc-single-n-2-1': 0.11865234375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 41, 17, 345633), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.84619140625, 'anasilc-single-n-1-1': 0.119140625, 'anasilc-n-rvt-big-1-1': 0.06982421875, 'anasilc-single-n-2-1': 0.1181640625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 42, 10, 307393), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.84765625, 'anasilc-single-n-1-1': 0.1474609375, 'anasilc-n-rvt-big-1-1': 0.1337890625, 'anasilc-single-n-2-1': 0.0146484375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 42, 56, 623036), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.84765625, 'anasilc-single-n-1-1': 0.1552734375, 'anasilc-n-rvt-big-1-1': 0.0703125, 'anasilc-single-n-2-1': 0.0146484375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 43, 34, 991106), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.701171875, 'vstrs-3': 0.85107421875, 'anasilc-single-n-1-1': 0.1474609375, 'anasilc-n-rvt-big-1-1': 0.06982421875, 'anasilc-single-n-2-1': 0.0146484375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 44, 50, 189852), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.85009765625, 'anasilc-single-n-1-1': 0.15185546875, 'anasilc-n-rvt-big-1-1': 0.2177734375, 'anasilc-single-n-2-1': 0.0400390625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 46, 1, 385839), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.9033203125, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.84765625, 'anasilc-single-n-1-1': 0.111328125, 'anasilc-n-rvt-big-1-1': 0.13427734375, 'anasilc-single-n-2-1': 0.00830078125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 46, 54, 175629), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.900390625, 'vstrs-2': 0.69775390625, 'vstrs-3': 0.84912109375, 'anasilc-single-n-1-1': 0.16943359375, 'anasilc-n-rvt-big-1-1': 0.08935546875, 'anasilc-single-n-2-1': 0.00830078125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 48, 22, 282806), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.70166015625, 'vstrs-3': 0.84765625, 'anasilc-single-n-1-1': 0.166015625, 'anasilc-n-rvt-big-1-1': 0.0888671875, 'anasilc-single-n-2-1': 0.00537109375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 49, 16, 414366), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.8505859375, 'anasilc-single-n-1-1': 0.087890625, 'anasilc-n-rvt-big-1-1': 0.123046875, 'anasilc-single-n-2-1': 0.00537109375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 49, 50, 872152), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.701171875, 'vstrs-3': 0.8486328125, 'anasilc-single-n-1-1': 0.1875, 'anasilc-n-rvt-big-1-1': 0.087890625, 'anasilc-single-n-2-1': 0.005859375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 50, 50, 240014), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.84765625, 'anasilc-single-n-1-1': 0.14111328125, 'anasilc-n-rvt-big-1-1': 0.078125, 'anasilc-single-n-2-1': 0.00439453125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 51, 39, 156181), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.6962890625, 'vstrs-3': 0.84716796875, 'anasilc-single-n-1-1': 0.107421875, 'anasilc-n-rvt-big-1-1': 0.06103515625, 'anasilc-single-n-2-1': 0.0048828125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 52, 26, 738129), 'time': 0, 'values': {'vstrs-0': 0.80029296875, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.70263671875, 'vstrs-3': 0.8515625, 'anasilc-single-n-1-1': 0.1474609375, 'anasilc-n-rvt-big-1-1': 0.16943359375, 'anasilc-single-n-2-1': 0.00439453125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 53, 14, 336089), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.69921875, 'vstrs-3': 0.84814453125, 'anasilc-single-n-1-1': 0.1328125, 'anasilc-n-rvt-big-1-1': 0.0869140625, 'anasilc-single-n-2-1': 0.00341796875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 53, 52, 784632), 'time': 0, 'values': {'vstrs-0': 0.8046875, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.8486328125, 'anasilc-single-n-1-1': 0.115234375, 'anasilc-n-rvt-big-1-1': 0.10107421875, 'anasilc-single-n-2-1': 0.00341796875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 54, 36, 422072), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.900390625, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.84765625, 'anasilc-single-n-1-1': 0.08349609375, 'anasilc-n-rvt-big-1-1': 0.0771484375, 'anasilc-single-n-2-1': 0.00341796875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 55, 41, 46572), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.6982421875, 'vstrs-3': 0.84912109375, 'anasilc-single-n-1-1': 0.14306640625, 'anasilc-n-rvt-big-1-1': 0.07958984375, 'anasilc-single-n-2-1': 0.0029296875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 56, 24, 769264), 'time': 0, 'values': {'vstrs-0': 0.8056640625, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.70361328125, 'vstrs-3': 0.849609375, 'anasilc-single-n-1-1': 0.142578125, 'anasilc-n-rvt-big-1-1': 0.060546875, 'anasilc-single-n-2-1': 0.0029296875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 57, 14, 992911), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.89599609375, 'vstrs-2': 0.69775390625, 'vstrs-3': 0.8466796875, 'anasilc-single-n-1-1': 0.23291015625, 'anasilc-n-rvt-big-1-1': 0.162109375, 'anasilc-single-n-2-1': 0.0029296875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 58, 6, 527903), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.8984375, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.8486328125, 'anasilc-single-n-1-1': 0.10498046875, 'anasilc-n-rvt-big-1-1': 0.09521484375, 'anasilc-single-n-2-1': 0.0029296875}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 58, 55, 462312), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.8984375, 'vstrs-2': 0.7060546875, 'vstrs-3': 0.84814453125, 'anasilc-single-n-1-1': 0.10791015625, 'anasilc-n-rvt-big-1-1': 0.1640625, 'anasilc-single-n-2-1': 0.00244140625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 22, 59, 37, 820428), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.85400390625, 'anasilc-single-n-1-1': 0.13818359375, 'anasilc-n-rvt-big-1-1': 0.09033203125, 'anasilc-single-n-2-1': 0.00244140625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 0, 22, 826008), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.90478515625, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.849609375, 'anasilc-single-n-1-1': 0.134765625, 'anasilc-n-rvt-big-1-1': 0.087890625, 'anasilc-single-n-2-1': 0.001953125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 0, 54, 697416), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.8984375, 'vstrs-2': 0.70166015625, 'vstrs-3': 0.84814453125, 'anasilc-single-n-1-1': 0.13623046875, 'anasilc-n-rvt-big-1-1': 0.083984375, 'anasilc-single-n-2-1': 0.00244140625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 1, 23, 925716), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.8984375, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.84716796875, 'anasilc-single-n-1-1': 0.09912109375, 'anasilc-n-rvt-big-1-1': 0.0810546875, 'anasilc-single-n-2-1': 0.00244140625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 2, 6, 281133), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.8486328125, 'anasilc-single-n-1-1': 0.14306640625, 'anasilc-n-rvt-big-1-1': 0.08447265625, 'anasilc-single-n-2-1': 0.00146484375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 2, 38, 141671), 'time': 0, 'values': {'vstrs-0': 0.80029296875, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.85009765625, 'anasilc-single-n-1-1': 0.2265625, 'anasilc-n-rvt-big-1-1': 0.07373046875, 'anasilc-single-n-2-1': 0.00146484375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 3, 11, 318496), 'time': 0, 'values': {'vstrs-0': 0.79931640625, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.69921875, 'vstrs-3': 0.84521484375, 'anasilc-single-n-1-1': 0.146484375, 'anasilc-n-rvt-big-1-1': 0.1650390625, 'anasilc-single-n-2-1': 0.0009765625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 4, 9, 411206), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.8984375, 'vstrs-2': 0.6982421875, 'vstrs-3': 0.8486328125, 'anasilc-single-n-1-1': 0.1015625, 'anasilc-n-rvt-big-1-1': 0.0859375, 'anasilc-single-n-2-1': 0.0009765625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 4, 39, 941211), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.6982421875, 'vstrs-3': 0.845703125, 'anasilc-single-n-1-1': 0.14208984375, 'anasilc-n-rvt-big-1-1': 0.087890625, 'anasilc-single-n-2-1': 0.00146484375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 5, 9, 203118), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.900390625, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.84814453125, 'anasilc-single-n-1-1': 0.13916015625, 'anasilc-n-rvt-big-1-1': 0.0869140625, 'anasilc-single-n-2-1': 0.0009765625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 5, 47, 578217), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.84765625, 'anasilc-single-n-1-1': 0.140625, 'anasilc-n-rvt-big-1-1': 0.08544921875, 'anasilc-single-n-2-1': 0.00146484375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 6, 18, 632559), 'time': 0, 'values': {'vstrs-0': 0.8076171875, 'vstrs-1': 0.900390625, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.8486328125, 'anasilc-single-n-1-1': 0.22998046875, 'anasilc-n-rvt-big-1-1': 0.06396484375, 'anasilc-single-n-2-1': 0.00146484375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 6, 47, 855434), 'time': 0, 'values': {'vstrs-0': 0.8046875, 'vstrs-1': 0.896484375, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.85009765625, 'anasilc-single-n-1-1': 0.13525390625, 'anasilc-n-rvt-big-1-1': 0.08251953125, 'anasilc-single-n-2-1': 0.0009765625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 7, 37, 998359), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.900390625, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.84814453125, 'anasilc-single-n-1-1': 0.142578125, 'anasilc-n-rvt-big-1-1': 0.0888671875, 'anasilc-single-n-2-1': 0.0009765625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 8, 9, 806329), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.849609375, 'anasilc-single-n-1-1': 0.16357421875, 'anasilc-n-rvt-big-1-1': 0.07373046875, 'anasilc-single-n-2-1': 0.0009765625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 8, 58, 751099), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.84765625, 'anasilc-single-n-1-1': 0.1474609375, 'anasilc-n-rvt-big-1-1': 0.1298828125, 'anasilc-single-n-2-1': 0.0009765625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 9, 37, 149419), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.85009765625, 'anasilc-single-n-1-1': 0.140625, 'anasilc-n-rvt-big-1-1': 0.2021484375, 'anasilc-single-n-2-1': 0.00146484375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 10, 16, 919401), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.90087890625, 'vstrs-2': 0.69921875, 'vstrs-3': 0.84814453125, 'anasilc-single-n-1-1': 0.09765625, 'anasilc-n-rvt-big-1-1': 0.0712890625, 'anasilc-single-n-2-1': 0.0009765625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'slope-test', 'submittedtime': datetime.datetime(2024, 6, 15, 23, 10, 50, 216162), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.70166015625, 'vstrs-3': 0.85107421875, 'anasilc-single-n-1-1': 0.1376953125, 'anasilc-n-rvt-big-1-1': 0.08447265625, 'anasilc-single-n-2-1': 0.0009765625}}
+TEST COMPLETE

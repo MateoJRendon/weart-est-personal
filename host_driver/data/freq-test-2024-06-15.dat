@@ -1,0 +1,580 @@
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 17, 43, 59, 188743), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.6982421875, 'vstrs-3': 0.84814453125}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 17, 53, 17, 688839), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.8486328125, 'frqsilc-n-2': 31.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 17, 57, 26, 975009), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.8984375, 'vstrs-2': 0.6982421875, 'vstrs-3': 0.85205078125, 'frqsilc-n-2': 31.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 17, 58, 35, 387812), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.8984375, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.84814453125, 'frqsilc-n-2': 31.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 1, 53, 748072), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.8525390625, 'frqsilc-n-2': 6.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 3, 21, 390670), 'time': 0, 'values': {'vstrs-0': 0.798828125, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.701171875, 'vstrs-3': 0.8486328125, 'frqsilc-n-2': 6.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 4, 13, 914404), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.8984375, 'vstrs-2': 0.701171875, 'vstrs-3': 0.849609375, 'frqsilc-n-2': 6.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 5, 18, 142151), 'time': 0, 'values': {'vstrs-0': 0.80029296875, 'vstrs-1': 0.8984375, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.849609375, 'frqsilc-n-2': 62.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 5, 52, 669886), 'time': 0, 'values': {'vstrs-0': 0.798828125, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.849609375, 'frqsilc-n-2': 62.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 6, 25, 879179), 'time': 0, 'values': {'vstrs-0': 0.798828125, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.69921875, 'vstrs-3': 0.84716796875, 'frqsilc-n-2': 62.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 9, 9, 463688), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.84912109375, 'frqsilc-n-2': 312.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 9, 45, 6995), 'time': 0, 'values': {'vstrs-0': 0.8037109375, 'vstrs-1': 0.90087890625, 'vstrs-2': 0.69921875, 'vstrs-3': 0.84765625, 'frqsilc-n-2': 312.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 10, 14, 37015), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.84765625, 'frqsilc-n-2': 312.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 11, 31, 508923), 'time': 0, 'values': {'vstrs-0': 0.80029296875, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.703125, 'vstrs-3': 0.845703125, 'frqsilc-n-2': 624.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 12, 8, 381293), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.84814453125, 'frqsilc-n-2': 624.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 12, 53, 254858), 'time': 0, 'values': {'vstrs-0': 0.7998046875, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.84716796875, 'frqsilc-n-2': 624.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 13, 55, 173833), 'time': 0, 'values': {'vstrs-0': 0.7998046875, 'vstrs-1': 0.8974609375, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.8486328125, 'frqsilc-n-2': 3122.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 14, 26, 867363), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.8486328125, 'frqsilc-n-2': 3122.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 14, 58, 838075), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.8984375, 'vstrs-2': 0.69921875, 'vstrs-3': 0.85107421875, 'frqsilc-n-2': 3121.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 16, 21, 624444), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.8984375, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.84814453125, 'frqsilc-n-2': 6244.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 17, 9, 538467), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.69921875, 'vstrs-3': 0.84716796875, 'frqsilc-n-2': 6245.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 17, 58, 390335), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.8955078125, 'vstrs-2': 0.70263671875, 'vstrs-3': 0.8525390625, 'frqsilc-n-2': 6243.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 20, 15, 833615), 'time': 0, 'values': {'vstrs-0': 0.8037109375, 'vstrs-1': 0.900390625, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.8486328125, 'frqsilc-n-2': 94208.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 20, 51, 833821), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.8974609375, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.84814453125, 'frqsilc-n-2': 31209.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 21, 30, 494565), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.697265625, 'vstrs-3': 0.8466796875, 'frqsilc-n-2': 31229.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 23, 16, 975366), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.85205078125, 'frqsilc-n-2': 62459.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 23, 51, 794983), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.8984375, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.849609375, 'frqsilc-n-2': 62459.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 24, 25, 298305), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.70166015625, 'vstrs-3': 0.85107421875, 'frqsilc-n-2': 62459.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 27, 2, 966798), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.69677734375, 'vstrs-3': 0.84716796875, 'frqsilc-n-2': 315392.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 28, 53, 580336), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.896484375, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.84765625, 'frqsilc-n-2': 311296.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 29, 29, 707279), 'time': 0, 'values': {'vstrs-0': 0.79931640625, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.849609375, 'frqsilc-n-2': 311296.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 30, 5, 519014), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.900390625, 'vstrs-2': 0.701171875, 'vstrs-3': 0.8466796875, 'frqsilc-n-2': 311296.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 34, 25, 346189), 'time': 0, 'values': {'vstrs-0': 0.79931640625, 'vstrs-1': 0.900390625, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.8447265625, 'frqsilc-n-2': 3.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 35, 0, 260255), 'time': 0, 'values': {'vstrs-0': 0.798828125, 'vstrs-1': 0.896484375, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.8486328125, 'frqsilc-n-2': 3.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 35, 36, 469120), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.89599609375, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.8505859375, 'frqsilc-n-2': 3.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 50, 38, 684538), 'time': 0, 'values': {'vstrs-0': 0.80419921875, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.84814453125, 'frqsilc-n-1': 311296.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 51, 26, 312334), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.85107421875, 'frqsilc-n-1': 315392.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 18, 52, 16, 586141), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.8486328125, 'frqsilc-n-1': 311296.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 28, 21, 321622), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.69775390625, 'vstrs-3': 0.8486328125, 'frqsilc-hn-big-2-1': 9.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 30, 13, 46332), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.9013671875, 'vstrs-2': 0.69921875, 'vstrs-3': 0.84912109375, 'frqsilc-hn-big-2-1': 9.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 30, 54, 480277), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.9013671875, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.85009765625, 'frqsilc-hn-big-2-1': 9.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 32, 11, 145566), 'time': 0, 'values': {'vstrs-0': 0.80029296875, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.8466796875, 'frqsilc-hn-big-2-1': 49.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 32, 47, 240077), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.70361328125, 'vstrs-3': 0.849609375, 'frqsilc-hn-big-2-1': 49.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 33, 19, 345391), 'time': 0, 'values': {'vstrs-0': 0.798828125, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.85009765625, 'frqsilc-hn-big-2-1': 49.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 34, 34, 418286), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.8955078125, 'vstrs-2': 0.69921875, 'vstrs-3': 0.84912109375, 'frqsilc-hn-big-2-1': 99.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 35, 6, 639575), 'time': 0, 'values': {'vstrs-0': 0.80029296875, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.701171875, 'vstrs-3': 0.8486328125, 'frqsilc-hn-big-2-1': 99.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 35, 42, 794057), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.89599609375, 'vstrs-2': 0.69921875, 'vstrs-3': 0.85009765625, 'frqsilc-hn-big-2-1': 99.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 36, 42, 182122), 'time': 0, 'values': {'vstrs-0': 0.798828125, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.7021484375, 'vstrs-3': 0.85009765625, 'frqsilc-hn-big-2-1': 499.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 37, 14, 317014), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.90087890625, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.8505859375, 'frqsilc-hn-big-2-1': 499.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 37, 46, 433355), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.8466796875, 'frqsilc-hn-big-2-1': 499.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 38, 57, 567662), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.8984375, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.8505859375, 'frqsilc-hn-big-2-1': 999.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: CRIT: SPI transaction failed
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 41, 53, 190319), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.849609375, 'frqsilc-hn-big-2-1': 998.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 42, 26, 700653), 'time': 0, 'values': {'vstrs-0': 0.8056640625, 'vstrs-1': 0.8974609375, 'vstrs-2': 0.701171875, 'vstrs-3': 0.8466796875, 'frqsilc-hn-big-2-1': 998.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 44, 19, 773990), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.69921875, 'vstrs-3': 0.849609375, 'frqsilc-hn-big-2-1': 4992.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 44, 48, 649148), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.8955078125, 'vstrs-2': 0.7021484375, 'vstrs-3': 0.8486328125, 'frqsilc-hn-big-2-1': 4994.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 45, 21, 823015), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.8984375, 'vstrs-2': 0.69873046875, 'vstrs-3': 0.84814453125, 'frqsilc-hn-big-2-1': 4993.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 46, 23, 784040), 'time': 0, 'values': {'vstrs-0': 0.806640625, 'vstrs-1': 0.900390625, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.85009765625, 'frqsilc-hn-big-2-1': 9987.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 47, 2, 206120), 'time': 0, 'values': {'vstrs-0': 0.80517578125, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.84716796875, 'frqsilc-hn-big-2-1': 9987.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 47, 36, 772053), 'time': 0, 'values': {'vstrs-0': 0.80126953125, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.69482421875, 'vstrs-3': 0.84912109375, 'frqsilc-hn-big-2-1': 9990.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 48, 51, 832907), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.896484375, 'vstrs-2': 0.70166015625, 'vstrs-3': 0.849609375, 'frqsilc-hn-big-2-1': 49947.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 49, 27, 960660), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.697265625, 'vstrs-3': 0.8466796875, 'frqsilc-hn-big-2-1': 49947.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 50, 15, 562010), 'time': 0, 'values': {'vstrs-0': 0.79833984375, 'vstrs-1': 0.89892578125, 'vstrs-2': 0.6943359375, 'vstrs-3': 0.8515625, 'frqsilc-hn-big-2-1': 49947.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 51, 31, 988958), 'time': 0, 'values': {'vstrs-0': 0.8037109375, 'vstrs-1': 0.8974609375, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.84716796875, 'frqsilc-hn-big-2-1': 98304.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 52, 7, 578618), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.8994140625, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.84765625, 'frqsilc-hn-big-2-1': 98304.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 52, 46, 436219), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.8984375, 'vstrs-2': 0.70166015625, 'vstrs-3': 0.8486328125, 'frqsilc-hn-big-2-1': 98304.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 54, 31, 584252), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.84912109375, 'frqsilc-hn-big-2-1': 499712.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 55, 6, 113087), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.9013671875, 'vstrs-2': 0.7021484375, 'vstrs-3': 0.84716796875, 'frqsilc-hn-big-2-1': 499712.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 56, 34, 389410), 'time': 0, 'values': {'vstrs-0': 0.80224609375, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.84716796875, 'frqsilc-hn-big-2-1': 499712.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 57, 48, 176251), 'time': 0, 'values': {'vstrs-0': 0.802734375, 'vstrs-1': 0.8984375, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.85009765625, 'frqsilc-hn-big-2-1': 999424.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 58, 57, 960137), 'time': 0, 'values': {'vstrs-0': 0.8056640625, 'vstrs-1': 0.900390625, 'vstrs-2': 0.70068359375, 'vstrs-3': 0.8486328125, 'frqsilc-hn-big-2-1': 999424.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 19, 59, 53, 446095), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.89697265625, 'vstrs-2': 0.69580078125, 'vstrs-3': 0.8486328125, 'frqsilc-hn-big-2-1': 999424.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 20, 1, 13, 309612), 'time': 0, 'values': {'vstrs-0': 0.8076171875, 'vstrs-1': 0.89794921875, 'vstrs-2': 0.7001953125, 'vstrs-3': 0.84814453125, 'frqsilc-hn-big-2-1': 5001216.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 20, 2, 32, 603345), 'time': 0, 'values': {'vstrs-0': 0.7998046875, 'vstrs-1': 0.89990234375, 'vstrs-2': 0.70166015625, 'vstrs-3': 0.8486328125, 'frqsilc-hn-big-2-1': 5001216.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 20, 3, 29, 607872), 'time': 0, 'values': {'vstrs-0': 0.8017578125, 'vstrs-1': 0.8974609375, 'vstrs-2': 0.7021484375, 'vstrs-3': 0.8515625, 'frqsilc-hn-big-2-1': 4997120.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 20, 6, 49, 888354), 'time': 0, 'values': {'vstrs-0': 0.80322265625, 'vstrs-1': 0.8974609375, 'vstrs-2': 0.69921875, 'vstrs-3': 0.8486328125, 'frqsilc-hn-big-1-5': 5001216.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 20, 7, 23, 217570), 'time': 0, 'values': {'vstrs-0': 0.80078125, 'vstrs-1': 0.900390625, 'vstrs-2': 0.69970703125, 'vstrs-3': 0.85009765625, 'frqsilc-hn-big-1-5': 5001216.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'freq-test', 'submittedtime': datetime.datetime(2024, 6, 15, 20, 7, 56, 706263), 'time': 0, 'values': {'vstrs-0': 0.79833984375, 'vstrs-1': 0.896484375, 'vstrs-2': 0.697265625, 'vstrs-3': 0.85107421875, 'frqsilc-hn-big-1-5': 4997120.0}}
+TEST COMPLETE

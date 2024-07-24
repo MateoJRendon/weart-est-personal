@@ -1,0 +1,726 @@
+another-test: {}
+short-test:
+  step-order:
+    #- meas-1
+  - strs-1
+  - meas-2
+    #- strs-1
+    #- meas-2
+    #- strs-2
+    #- meas-2
+    #- meas-1
+  ana-ctrl-1:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  ana-ctrl-2:
+    - 0.0
+    - 0.0
+    - 0.42
+    - 0.4
+    - 0.38
+    - 0.0
+    - 0.0
+    - 0.0
+  ana-ctrl-3:
+    - 0.1
+    - 0.2
+    - 0.3
+    - 0.4
+    - 0.5
+    - 0.6
+    - 0.7
+    - 0.8
+  dig-ctrl-1:
+    # GPIO   -  Mateo's info: x x x x   freq1_en  meas_en  osc_en  osc_rst
+    # Only three pins are not dedicated to a function, 0, 1, and 4
+    # 2 = PWM, 3 = Hot ind LED, 5-7 = Board select
+    - !!int 0b000_1_00_11
+    # LV-GPIO
+    # Only five pins are not dedicated to a function, 3-5 = Chip select
+    # IMPORTANT NOTE: lv gpio pin 1 is assumed to be the oscillator reset currently
+    # IMPORTANT NOTE: lv gpio pin 6 is hard set to be the active high slope trigger currently
+    - !!int 0b11_000_111
+    # LEDs - most significant nibble set BLINKING, LSN is ON
+    # colors in each are RED-ORANGE-YELLOW-GREEN MS to LS
+    - !!int 0b1010_1010
+  dig-ctrl-2:
+    # Mateo needs to have freq1_en enabled for half of the full test duration
+    - !!int 0b0000_1011
+    - 2
+    - 3
+  dig-ctrl-strs:
+    - !!int 0b0000_0110
+    - !!int 0b0000_0000
+    - !!int 0b0000_0000
+  meas-1:
+    ana-ctrl: ana-ctrl-2
+    conditions:
+      #temp: 30
+      #vcore: 0.8
+      vcore2: 0.6
+        #vio: 1.8
+        #vio2: 1.2
+    dig-ctrl: dig-ctrl-2
+    what-to-meas:
+    - vstrs-0
+    - vstrs-1
+    - ro-iso-nhci-1-1
+  meas-2:
+    ana-ctrl: ana-ctrl-2
+    conditions:
+      #temp: 60
+      vcore: 0.8
+      vio: 1.8
+      vcore2: 0.72
+    dig-ctrl: dig-ctrl-2
+    what-to-meas: test-set-1
+  strs-1:
+    ana-ctrl: ana-ctrl-3
+    conditions:
+      #temp: 60.0
+      vcore: 0.88
+      vcore2: 0.64
+      vio: 1.8
+      vio2: 1.3
+    dig-ctrl: dig-ctrl-1
+    duration: 10
+  strs-2:
+    ana-ctrl: ana-ctrl-3
+    conditions:
+      #temp: 60
+      vcore: 0.88
+      vio: 1.3
+    duration: 60
+
+  meas-lt-small:
+    conditions:
+      #temp: 30.0
+      vcore: 0.8
+      vio: 1.8
+      vio2: 1.8
+    dig-ctrl: dig-ctrl-strs
+    what-to-meas: test-set-1
+    
+rgpio-test:
+  step-order:
+  - meas-1
+  # - meas-2
+  # - strs-1
+    #- meas-1
+    #- strs-1
+    #- meas-2
+    #- strs-2
+    #- meas-2
+    #- meas-1
+  ana-ctrl-1:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  dig-ctrl-1:
+    # GPIO   -  Mateo's info: x x x x   freq1_en  meas_en  osc_en  osc_rst
+    # Only three pins are not dedicated to a function, 0, 1, and 4
+    # 2 = PWM, 3 = Hot ind LED, 5-7 = Board select
+    - !!int 0b000_0_00_00
+    # LV-GPIO
+    # Only five pins are not dedicated to a function, 3-5 = Chip select
+    # IMPORTANT NOTE: lv gpio pin 1 is assumed to be the oscillator reset currently
+    # IMPORTANT NOTE: lv gpio pin 6 is hard set to be the active high slope trigger currently
+    - !!int 0b11_000_111
+    # LEDs - most significant nibble set BLINKING, LSN is ON
+    # colors in each are RED-ORANGE-YELLOW-GREEN MS to LS
+    - !!int 0b1111_0000
+  meas-1:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      #temp: 100
+      vcore: 0.8
+      vcore2: 0.7
+      vio: 1.8
+      vio2: 1.7
+    dig-ctrl: dig-ctrl-1
+    what-to-meas: rgpio-test-set-1
+  meas-2:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      #temp: 100
+      vcore: 0.8
+      vcore2: 0.7
+      vio: 1.8
+      vio2: 1.7
+    dig-ctrl: dig-ctrl-1
+    what-to-meas: rgpio-test-set-1
+  strs-1:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      #temp: 90
+      vcore: 0.85
+      vcore2: 0.75
+      vio: 1.85
+      vio2: 1.75
+    dig-ctrl: dig-ctrl-1
+    duration: 5
+  strs-2:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      temp: 90
+      vcore: 0.85
+      vcore2: 0.75
+      vio: 1.85
+      vio2: 1.75
+    dig-ctrl: dig-ctrl-1
+    duration: 5
+
+lgpio-test:
+  step-order:
+  - meas-1
+    #- meas-1
+    #- strs-1
+    #- meas-2
+    #- strs-2
+    #- meas-2
+    #- meas-1
+  ana-ctrl-1:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  dig-ctrl-1:
+    # GPIO   -  Mateo's info: x x x x   freq1_en  meas_en  osc_en  osc_rst
+    # Only three pins are not dedicated to a function, 0, 1, and 4
+    # 2 = PWM, 3 = Hot ind LED, 5-7 = Board select
+    - !!int 0b000_0_00_00
+    # LV-GPIO
+    # Only five pins are not dedicated to a function, 3-5 = Chip select
+    # IMPORTANT NOTE: lv gpio pin 1 is assumed to be the oscillator reset currently
+    # IMPORTANT NOTE: lv gpio pin 6 is hard set to be the active high slope trigger currently
+    # EDIT HERE!
+    - !!int 0b00_000_000
+    # LEDs - most significant nibble set BLINKING, LSN is ON
+    # colors in each are RED-ORANGE-YELLOW-GREEN MS to LS
+    - !!int 0b1000_0000
+  dig-ctrl-2:
+    - !!int 0b000_0_00_00
+    - !!int 0b11_000_111
+    - !!int 0b1111_0000
+  meas-1:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      #temp: 30
+      vcore: 0.8
+      vcore2: 0.7
+      vio: 1.8
+      vio2: 1.7
+    dig-ctrl: dig-ctrl-1
+    what-to-meas: lgpio-test-set-1
+  strs-1:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      #temp: 60.0
+      vcore: 0.85
+      vcore2: 0.75
+      vio: 1.85
+      vio2: 1.75
+    dig-ctrl: dig-ctrl-1
+    duration: 5
+
+dac-test:
+  step-order:
+  - strs-1
+  - strs-2
+  - strs-3
+  - strs-4
+    #- meas-1
+    #- strs-1
+    #- meas-2
+    #- strs-2
+    #- meas-2
+    #- meas-1
+  ana-ctrl-1:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  ana-ctrl-2:
+    - 0.1
+    - 0.2
+    - 0.3
+    - 0.4
+    - 0.5
+    - 0.6
+    - 0.7
+    - 0.8
+  ana-ctrl-3:
+    - 0.25
+    - 0.0
+    - 0.50
+    - 0.0
+    - 0.75
+    - 0.0
+    - 1.0
+    - 0.0
+  ana-ctrl-4:
+    - 1.2
+    - 1.4
+    - 1.6
+    - 1.8
+    - 2.0
+    - 2.2
+    - 2.4
+    - 2.6
+  dig-ctrl-1:
+    - !!int 0b000_0_00_00
+    - !!int 0b10_000_000
+    - !!int 0b0000_0001
+  dig-ctrl-2:
+    - !!int 0b000_0_00_00
+    - !!int 0b10_000_000
+    - !!int 0b0000_0011
+  dig-ctrl-3:
+    - !!int 0b000_0_00_00
+    - !!int 0b10_000_000
+    - !!int 0b0000_0111
+  dig-ctrl-4:
+    - !!int 0b000_0_00_00
+    - !!int 0b10_000_000
+    - !!int 0b0000_1111
+  meas-1:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      #temp: 30
+      vcore: 0.8
+      vcore2: 0.7
+      vio: 1.8
+      vio2: 1.7
+    dig-ctrl: dig-ctrl-1
+    what-to-meas: lgpio-test-set-1
+  strs-1:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      #temp: 60.0
+      vcore: 0.85
+      vcore2: 0.75
+      vio: 1.85
+      vio2: 1.75
+    dig-ctrl: dig-ctrl-1
+    duration: 180
+  strs-2:
+    ana-ctrl: ana-ctrl-2
+    conditions:
+      #temp: 60.0
+      vcore: 0.85
+      vcore2: 0.75
+      vio: 1.85
+      vio2: 1.75
+    dig-ctrl: dig-ctrl-2
+    duration: 180
+  strs-3:
+    ana-ctrl: ana-ctrl-3
+    conditions:
+      #temp: 60.0
+      vcore: 0.85
+      vcore2: 0.75
+      vio: 1.85
+      vio2: 1.75
+    dig-ctrl: dig-ctrl-3
+    duration: 180
+  strs-4:
+    ana-ctrl: ana-ctrl-4
+    conditions:
+      #temp: 60.0
+      vcore: 0.85
+      vcore2: 0.75
+      vio: 1.85
+      vio2: 1.75
+    dig-ctrl: dig-ctrl-4
+    duration: 180
+
+slope-test:
+  step-order:
+   - meas-1
+   - meas-1
+   - meas-1
+   - meas-1
+   - meas-1
+    #- meas-1
+    #- strs-1
+    #- meas-2
+    #- strs-2
+    #- meas-2
+    #- meas-1
+  ana-ctrl-1:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  dig-ctrl-1:
+    - !!int 0b000_0_00_00
+    - !!int 0b11_111_111
+    - !!int 0b1111_0000
+  meas-1:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      #temp: 30
+      vcore: 0.8
+      vcore2: 0.8
+      vio: 1.8
+      vio2: 1.8
+    dig-ctrl: dig-ctrl-1
+    what-to-meas: slope-test-set-1
+
+    
+lowfreq-test:
+  step-order:
+    - meas-1
+    - meas-1
+    - meas-1
+    - meas-1
+    - meas-1
+    #- meas-1
+    #- strs-1
+    #- meas-2
+    #- strs-2
+    #- meas-2
+    #- meas-1
+  ana-ctrl-1:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  dig-ctrl-1:
+    - !!int 0b000_0_00_00
+    - !!int 0b00_000_000
+    - !!int 0b1001_0000
+  meas-1:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      #temp: 30
+      vcore: 0.8
+      vcore2: 0.7
+      vio: 1.8
+      vio2: 1.7
+    dig-ctrl: dig-ctrl-1
+    what-to-meas: lowfreq-test-set-1
+    
+order-test:
+  step-order:
+    - meas-1
+    #- strs-1
+  ana-ctrl-1:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  dig-ctrl-1:
+    - !!int 0b000_0_00_00
+    - !!int 0b00_000_000
+    - !!int 0b1001_0000
+  meas-1:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      #temp: 30
+      vcore: 0.8
+      vcore2: 0.8
+      vio: 0.8
+      vio2: 0.8
+    dig-ctrl: dig-ctrl-1
+    what-to-meas: 
+    - vstrs-0
+    - vstrs-1
+    - anasilc-single-n-2-1
+  strs-1:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      #temp: 60.0
+      vcore: 0.8
+      vcore2: 0.75
+      vio: 1.8
+      vio2: 1.75
+    dig-ctrl: dig-ctrl-1
+    duration: 240
+
+temperature-test:
+  step-order:
+    - meas
+  ana-ctrl-1:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  dig-ctrl-all:
+    # NAME: This is the control of the signals for measuring rosc, tddbs, and EMs. NOT iso-rosc due to !OscEn
+
+    # RGPIO - 3.3V 
+    # RGO7   - RGO6   - RGO5   ___ RGO4 ___ RGO3    - RGO2     ___ RGO1 - RGO0
+    # Brd-S2 - Brd-S1 - Brd-S0 ___ X    ___ WrnLgth - HeatCtrl ___ X    - X
+    - !!int 0b000_0_00_00
+ 
+    # LGPIO - 1.8V
+    # LGO7 - LGO6   ___ LGO5   - LGO4   - LGO3   ___ LGO2    - LGO1    - LGO0
+    # Meas - !SlRST ___ Chp-S2 - Chp-S1 - Chp-S0 ___ Freq1En - !OscRst - !OscEn
+    - !!int 0b10_000_110
+
+    # BLINK ___ ON
+    # Red - Orange - Yellow - Green
+    # D0  - D3     - D2     - D1
+    - !!int 0b1111_0000
+  meas:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      temp: 40.0
+      vcore: 0.8            # VSL0 / VDD
+      vcore2: 0.8           # VSL1 / Unused   
+      vio: 1.8              # VSH0 / VDDIO  
+      vio2: 0.8             # VSH1 / VDDH
+    dig-ctrl: dig-ctrl-all
+    what-to-meas: 
+      - temp-0
+      - temp-1
+  strs:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      temp: 40.0
+      vcore: 0.805            # VSL0 / VDD
+      vcore2: 0.805           # VSL1 / Unused   
+      vio: 1.805              # VSH0 / VDDIO  
+      vio2: 0.805             # VSH1 / VDDH
+    dig-ctrl: dig-ctrl-all
+    duration: 60
+
+#######################################################################
+
+short-test-all-connected:
+  step-order:
+    - meas
+    - strs-A
+    - meas
+    - strs-B
+    - meas
+    #- strs-A
+    #- meas
+    #- strs-B
+    #- meas
+  ana-ctrl-1:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  dig-ctrl-meas:
+    # NAME: This is the control of the signals for measuring rosc, tddbs, and EMs. NOT iso-rosc due to !OscEn
+
+    # RGPIO - 3.3V 
+    # RGO7   - RGO6   - RGO5   ___ RGO4 ___ RGO3    - RGO2     ___ RGO1 - RGO0
+    # Brd-S2 - Brd-S1 - Brd-S0 ___ X    ___ WrnLgth - HeatCtrl ___ X    - X
+    - !!int 0b000_0_00_00
+ 
+    # LGPIO - 1.8V
+    # LGO7 - LGO6   ___ LGO5   - LGO4   - LGO3   ___ LGO2    - LGO1    - LGO0
+    # Meas - !SlRST ___ Chp-S2 - Chp-S1 - Chp-S0 ___ Freq1En - !OscRst - !OscEn
+    - !!int 0b10_000_110
+
+    # BLINK ___ ON
+    # Red - Orange - Yellow - Green
+    # D0  - D3     - D2     - D1
+    - !!int 0b1111_0000
+  dig-ctrl-strs-A:
+    # NAME: This is to set all sensors in stress mode. Including the Freq1En ones. 
+
+    # RGPIO - 3.3V 
+    # RGO7   - RGO6   - RGO5   ___ RGO4 ___ RGO3    - RGO2     ___ RGO1 - RGO0
+    # Brd-S2 - Brd-S1 - Brd-S0 ___ X    ___ WrnLgth - HeatCtrl ___ X    - X
+    - !!int 0b000_0_00_00
+ 
+    # LGPIO - 1.8V
+    # LGO7 - LGO6   ___ LGO5   - LGO4   - LGO3   ___ LGO2    - LGO1    - LGO0
+    # Meas - !SlRST ___ Chp-S2 - Chp-S1 - Chp-S0 ___ Freq1En - !OscRst - !OscEn
+    - !!int 0b00_000_101
+
+    # BLINK ___ ON
+    # Red - Orange - Yellow - Green
+    # D0  - D3     - D2     - D1
+    - !!int 0b0000_0100
+  dig-ctrl-strs-B:
+    # NAME: This is to set all sensors in stress mode. Including the Freq1En ones. 
+
+    # RGPIO - 3.3V 
+    # RGO7   - RGO6   - RGO5   ___ RGO4 ___ RGO3    - RGO2     ___ RGO1 - RGO0
+    # Brd-S2 - Brd-S1 - Brd-S0 ___ X    ___ WrnLgth - HeatCtrl ___ X    - X
+    - !!int 0b000_0_00_00
+ 
+    # LGPIO - 1.8V
+    # LGO7 - LGO6   ___ LGO5   - LGO4   - LGO3   ___ LGO2    - LGO1    - LGO0
+    # Meas - !SlRST ___ Chp-S2 - Chp-S1 - Chp-S0 ___ Freq1En - !OscRst - !OscEn
+    - !!int 0b00_000_001
+
+    # BLINK ___ ON
+    # Red - Orange - Yellow - Green
+    # D0  - D3     - D2     - D1
+    - !!int 0b0000_0010
+  meas:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      #temp: 30
+      vcore: 0.8            # VSL0 / VDD
+      vcore2: 0.8           # VSL1 / Unused   
+      vio: 1.8              # VSH0 / VDDIO  
+      vio2: 0.8             # VSH1 / VDDH
+    dig-ctrl: dig-ctrl-meas
+    what-to-meas: short-test-all-connected
+  strs-A:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      #temp: 60.0
+      vcore: 0.805            # VSL0 / VDD
+      vcore2: 0.805           # VSL1 / Unused   
+      vio: 1.805              # VSH0 / VDDIO  
+      vio2: 0.805             # VSH1 / VDDH
+    dig-ctrl: dig-ctrl-strs-A
+    duration: 120
+  strs-B:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      #temp: 60.0
+      vcore: 0.803            # VSL0 / VDD
+      vcore2: 0.803           # VSL1 / Unused   
+      vio: 1.803              # VSH0 / VDDIO  
+      vio2: 0.803             # VSH1 / VDDH
+    dig-ctrl: dig-ctrl-strs-B
+    duration: 120
+
+
+
+short-test-dut2:
+  step-order:
+    - meas
+    - strs-A
+    - meas
+    - strs-B
+    - meas
+  ana-ctrl-1:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  dig-ctrl-meas:
+    # NAME: This is the control of the signals for measuring rosc, tddbs, and EMs.
+
+    # RGPIO - 3.3V 
+    # RGO7   - RGO6   - RGO5   ___ RGO4 ___ RGO3    - RGO2     ___ RGO1 - RGO0
+    # Brd-S2 - Brd-S1 - Brd-S0 ___ X    ___ WrnLgth - HeatCtrl ___ X    - X
+    - !!int 0b000_0_00_00
+ 
+    # LGPIO - 1.8V
+    # LGO7 - LGO6   ___ LGO5   - LGO4   - LGO3   ___ LGO2    - LGO1    - LGO0
+    # Meas - !SlRST ___ Chp-S2 - Chp-S1 - Chp-S0 ___ Freq1En - !OscRst - !OscEn
+    - !!int 0b10_000_110
+
+    # BLINK ___ ON
+    # Red - Orange - Yellow - Green
+    # D0  - D3     - D2     - D1
+    - !!int 0b1111_0000
+  dig-ctrl-strs-A:
+    # NAME: This is to set all sensors in stress mode. Including the Freq1En ones. 
+
+    # RGPIO - 3.3V 
+    # RGO7   - RGO6   - RGO5   ___ RGO4 ___ RGO3    - RGO2     ___ RGO1 - RGO0
+    # Brd-S2 - Brd-S1 - Brd-S0 ___ X    ___ WrnLgth - HeatCtrl ___ X    - X
+    - !!int 0b000_0_00_00
+ 
+    # LGPIO - 1.8V
+    # LGO7 - LGO6   ___ LGO5   - LGO4   - LGO3   ___ LGO2    - LGO1    - LGO0
+    # Meas - !SlRST ___ Chp-S2 - Chp-S1 - Chp-S0 ___ Freq1En - !OscRst - !OscEn
+    - !!int 0b00_000_101
+
+    # BLINK ___ ON
+    # Red - Orange - Yellow - Green
+    # D0  - D3     - D2     - D1
+    - !!int 0b0000_0100
+  dig-ctrl-strs-B:
+    # NAME: This is to set all sensors in stress mode. Excluding the Freq1En ones. 
+
+    # RGPIO - 3.3V 
+    # RGO7   - RGO6   - RGO5   ___ RGO4 ___ RGO3    - RGO2     ___ RGO1 - RGO0
+    # Brd-S2 - Brd-S1 - Brd-S0 ___ X    ___ WrnLgth - HeatCtrl ___ X    - X
+    - !!int 0b000_0_00_00
+ 
+    # LGPIO - 1.8V
+    # LGO7 - LGO6   ___ LGO5   - LGO4   - LGO3   ___ LGO2    - LGO1    - LGO0
+    # Meas - !SlRST ___ Chp-S2 - Chp-S1 - Chp-S0 ___ Freq1En - !OscRst - !OscEn
+    - !!int 0b00_000_001
+
+    # BLINK ___ ON
+    # Red - Orange - Yellow - Green
+    # D0  - D3     - D2     - D1
+    - !!int 0b0000_0010
+  meas:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      temp: 25.0
+      vcore: 0.8            # VSL0 / VDD
+      vcore2: 0.8           # VSL1 / Unused   
+      vio: 1.8              # VSH0 / VDDIO  
+      vio2: 0.8             # VSH1 / VDDH
+    dig-ctrl: dig-ctrl-meas
+    what-to-meas: idfbcamq-dut2
+  strs-A:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      #temp: 30.0
+      vcore: 0.805            # VSL0 / VDD
+      vcore2: 0.805           # VSL1 / Unused   
+      vio: 1.805              # VSH0 / VDDIO  
+      vio2: 0.805             # VSH1 / VDDH
+    dig-ctrl: dig-ctrl-strs-A
+    duration: 120
+  strs-B:
+    ana-ctrl: ana-ctrl-1
+    conditions:
+      temp: 30.0
+      vcore: 0.803            # VSL0 / VDD
+      vcore2: 0.803           # VSL1 / Unused   
+      vio: 1.803              # VSH0 / VDDIO  
+      vio2: 0.803             # VSH1 / VDDH
+    dig-ctrl: dig-ctrl-strs-B
+    duration: 120

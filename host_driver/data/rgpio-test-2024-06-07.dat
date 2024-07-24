@@ -1,0 +1,567 @@
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 18, 44, 14, 382718), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 18, 45, 3, 807824), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 18, 46, 0, 3647), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 18, 47, 15, 553296), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 18, 48, 37, 730994), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 18, 50, 30, 417301), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 18, 51, 13, 147793), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 18, 52, 3, 708312), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 18, 52, 46, 445898), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 18, 54, 2, 298621), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 18, 54, 48, 942667), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 18, 55, 47, 458487), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 18, 56, 28, 834933), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 18, 58, 12, 122599), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 18, 58, 58, 845886), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 0, 1, 341891), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 0, 42, 858418), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 1, 43, 862902), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 2, 29, 279521), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 3, 29, 110656), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 4, 14, 525971), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 5, 20, 466441), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 6, 8, 375357), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 6, 56, 335245), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 8, 34, 188217), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 9, 39, 300701), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 10, 37, 758338), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 11, 24, 411457), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 12, 5, 857265), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 13, 16, 15305), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 14, 19, 875555), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 15, 13, 227621), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 15, 54, 767447), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 17, 11, 692909), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 17, 54, 521203), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 18, 46, 475733), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: INFO: Test Finished!
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 19, 30, 576962), 'time': 0, 'values': []}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 23, 24, 551256), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 24, 16, 18164), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 25, 32, 353241), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 26, 23, 747697), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 27, 54, 908907), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 28, 37, 177912), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 29, 23, 382143), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 30, 10, 934942), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 31, 2, 908101), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 32, 17, 941547), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Test loaded successfully...
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 33, 31, 515608), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 34, 13, 793821), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 35, 1, 342229), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 35, 44, 944666), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 37, 28, 81648), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 38, 18, 227808), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 39, 3, 75193), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 40, 14, 240938), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 41, 26, 451912), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 42, 23, 14036), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 43, 19, 575548), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 44, 0, 485601), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 45, 27, 503477), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 46, 20, 200928), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 47, 10, 781796), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 47, 59, 614106), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 49, 26, 309833), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 50, 12, 454238), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 51, 9, 424596), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 52, 12, 583148), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 53, 38, 564655), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 54, 19, 531297), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 55, 13, 661312), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 55, 58, 620888), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 57, 24, 121917), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 58, 15, 550947), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 58, 56, 523394), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 19, 59, 38, 741791), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 20, 0, 18, 382571), 'time': 0, 'values': {'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+
+NEW TEST START
+Device says: INFO: Starting test...
+
+NEW TEST START
+Device says: INFO: Starting test...
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 21, 16, 24, 886858), 'time': 0, 'values': {'temp-0': 58.447265625, 'temp-1': 58.30078125, 'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 21, 19, 38, 620436), 'time': 0, 'values': {'temp-0': 10.7421875, 'temp-1': 10.595703125, 'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+{'datatype': 'measure', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 21, 27, 25, 569515), 'time': 0, 'values': {'temp-0': 58.251953125, 'temp-1': 58.203125, 'frqsilc-p-big-1-1': 0.0, 'frqsilc-p-big-1-5': 0.0, 'frqsilc-hn-big-1-5': 0.0, 'frqsilc-hp-big-1-1': 0.0, 'frqsilc-hn-big-1-6': 0.0, 'frqsilc-p-big-1-6': 0.0, 'frqsilc-p-big-1-2': 0.0}}
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+{'datatype': 'stress', 'testrun': 'rgpio-test', 'submittedtime': datetime.datetime(2024, 6, 7, 21, 33, 8, 191486), 'time': 0, 'values': []}

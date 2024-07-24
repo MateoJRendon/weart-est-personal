@@ -1,0 +1,343 @@
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 44, 56, 4227), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 45, 49, 158356), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 46, 27, 552652), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 47, 18, 18971), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 47, 57, 911372), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 49, 5, 304299), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 49, 50, 338275), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 50, 27, 464786), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 50, 59, 594028), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 51, 49, 857524), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 52, 23, 606007), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 53, 14, 66943), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 54, 9, 547125), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 55, 1, 392875), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 55, 43, 806697), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 58, 0, 607334), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 58, 50, 706726), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 14, 59, 35, 561515), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 0, 28, 260646), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 1, 51, 60605), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 2, 38, 534140), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 3, 28, 550477), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 4, 9, 519181), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 5, 55, 160360), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 7, 46, 536968), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 8, 34, 265073), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 9, 16, 418440), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 10, 6, 466321), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 11, 0, 393980), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 11, 55, 680012), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 12, 43, 230262), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 14, 13, 442150), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 15, 35, 532598), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 16, 15, 409180), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 16, 56, 527104), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 17, 52, 76227), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 18, 38, 506036), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 19, 24, 858002), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 20, 8, 566871), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 20, 58, 905397), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 22, 22, 520967), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 23, 4, 894174), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 23, 46, 40422), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 24, 31, 41311), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 25, 19, 983957), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 25, 58, 433579), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 26, 38, 211239), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 27, 24, 539240), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'lgpio-test', 'submittedtime': datetime.datetime(2024, 6, 6, 15, 28, 5, 581713), 'time': 0, 'values': {'anasilc-p-hvt-med-1-4': 0.0, 'anasilc-p-rvt-med-1-1': 0.0, 'anasilc-p-rvt-med-1-3': 0.0, 'anasilc-p-hvt-med-1-1': 0.0}}
+TEST COMPLETE

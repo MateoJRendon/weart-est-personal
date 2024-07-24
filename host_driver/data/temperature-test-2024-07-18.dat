@@ -1,0 +1,39 @@
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Stressing...
+Device says: WARN: V2 stress drifted outside stable range
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'temperature-test', 'submittedtime': datetime.datetime(2024, 7, 18, 15, 12, 46, 721822), 'time': 0, 'values': {'temp-0': 41.6015625, 'temp-1': 39.16015625}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'temperature-test', 'submittedtime': datetime.datetime(2024, 7, 18, 15, 24, 30, 751374), 'time': 0, 'values': {'temp-0': 39.94140625, 'temp-1': 41.30859375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'temperature-test', 'submittedtime': datetime.datetime(2024, 7, 18, 15, 46, 8, 253937), 'time': 0, 'values': {'temp-0': 41.2109375, 'temp-1': 39.6484375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+{'datatype': 'measure', 'testrun': 'temperature-test', 'submittedtime': datetime.datetime(2024, 7, 18, 16, 2, 31, 651708), 'time': 0, 'values': {'temp-0': 40.576171875, 'temp-1': 39.599609375}}
+TEST COMPLETE
+
+NEW TEST START
+Device says: INFO: Starting test...
+Device says: INFO: Measuring...
+Device says: INFO: Test Finished!
+{'datatype': 'measure', 'testrun': 'temperature-test', 'submittedtime': datetime.datetime(2024, 7, 18, 20, 38, 27, 522512), 'time': 0, 'values': {'temp-0': 39.55078125, 'temp-1': 39.208984375}}
+TEST COMPLETE

@@ -1,0 +1,7 @@
+target/
+temp/
+
+*_venv/
+atsamd_hal_modified/
+atsamd_hal_modified_old/
+.idea/
