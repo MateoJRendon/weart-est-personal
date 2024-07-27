@@ -82,7 +82,7 @@ class EmailServerLink:
             with smtplib.SMTP_SSL('smtp.gmail.com', 465, timeout=2) as server:
                 server.login(self.address, self.password)
                 # TEMP TODO: Uncomment after testing
-                #server.sendmail(source_email, TARGET_EMAIL, mail.as_string())
+                server.sendmail(self.address, TARGET_EMAIL, mail.as_string())
                 print('Email would have sent successfully')
                 server.quit()
         except Exception as e:
@@ -92,7 +92,7 @@ class EmailServerLink:
 
 ### DATABASE CONNECTION HANDLING ###
 
-DB_DATASET = 'IDFBCAMQ-temp-test'
+DB_DATASET = 'pre-IDFBCAMQ-125C-15min'
 
 def login_to_database():
     tls_ca = certifi.where()

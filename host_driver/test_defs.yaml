@@ -501,7 +501,7 @@ temperature-test:
   meas:
     ana-ctrl: ana-ctrl-1
     conditions:
-      temp: 40.0
+      # temp: 40.0
       vcore: 0.8            # VSL0 / VDD
       vcore2: 0.8           # VSL1 / Unused   
       vio: 1.8              # VSH0 / VDDIO  
@@ -513,7 +513,7 @@ temperature-test:
   strs:
     ana-ctrl: ana-ctrl-1
     conditions:
-      temp: 40.0
+      # temp: 40.0
       vcore: 0.805            # VSL0 / VDD
       vcore2: 0.805           # VSL1 / Unused   
       vio: 1.805              # VSH0 / VDDIO  
@@ -597,37 +597,37 @@ short-test-all-connected:
   meas:
     ana-ctrl: ana-ctrl-1
     conditions:
-      #temp: 30
+      temp: 30.0
       vcore: 0.8            # VSL0 / VDD
       vcore2: 0.8           # VSL1 / Unused   
       vio: 1.8              # VSH0 / VDDIO  
       vio2: 0.8             # VSH1 / VDDH
     dig-ctrl: dig-ctrl-meas
-    what-to-meas: short-test-all-connected
+    what-to-meas: idfbcamq-dut2
   strs-A:
     ana-ctrl: ana-ctrl-1
     conditions:
-      #temp: 60.0
-      vcore: 0.805            # VSL0 / VDD
-      vcore2: 0.805           # VSL1 / Unused   
-      vio: 1.805              # VSH0 / VDDIO  
-      vio2: 0.805             # VSH1 / VDDH
+      temp: 125.0
+      vcore: 0.880            # VSL0 / VDD
+      vcore2: 0.800           # VSL1 / Unused   
+      vio: 1.800              # VSH0 / VDDIO  
+      vio2: 1.800             # VSH1 / VDDH
     dig-ctrl: dig-ctrl-strs-A
-    duration: 120
+    duration: 420
   strs-B:
     ana-ctrl: ana-ctrl-1
     conditions:
-      #temp: 60.0
-      vcore: 0.803            # VSL0 / VDD
-      vcore2: 0.803           # VSL1 / Unused   
-      vio: 1.803              # VSH0 / VDDIO  
-      vio2: 0.803             # VSH1 / VDDH
+      temp: 125.0
+      vcore: 0.880            # VSL0 / VDD
+      vcore2: 0.800           # VSL1 / Unused   
+      vio: 1.800              # VSH0 / VDDIO  
+      vio2: 1.800             # VSH1 / VDDH
     dig-ctrl: dig-ctrl-strs-B
-    duration: 120
+    duration: 420
 
 
 
-short-test-dut2:
+hour125C-test-dut2:
   step-order:
     - meas
     - strs-A
@@ -707,20 +707,20 @@ short-test-dut2:
   strs-A:
     ana-ctrl: ana-ctrl-1
     conditions:
-      #temp: 30.0
-      vcore: 0.805            # VSL0 / VDD
-      vcore2: 0.805           # VSL1 / Unused   
-      vio: 1.805              # VSH0 / VDDIO  
-      vio2: 0.805             # VSH1 / VDDH
+      temp: 125.0
+      vcore: 0.880            # VSL0 / VDD
+      vcore2: 0.800           # VSL1 / Unused   
+      vio: 1.800              # VSH0 / VDDIO  
+      vio2: 0.960             # VSH1 / VDDH
     dig-ctrl: dig-ctrl-strs-A
-    duration: 120
+    duration: 1800
   strs-B:
     ana-ctrl: ana-ctrl-1
     conditions:
-      temp: 30.0
-      vcore: 0.803            # VSL0 / VDD
-      vcore2: 0.803           # VSL1 / Unused   
-      vio: 1.803              # VSH0 / VDDIO  
-      vio2: 0.803             # VSH1 / VDDH
+      temp: 125.0
+      vcore: 0.880            # VSL0 / VDD
+      vcore2: 0.800           # VSL1 / Unused   
+      vio: 1.800              # VSH0 / VDDIO  
+      vio2: 1.040             # VSH1 / VDDH
     dig-ctrl: dig-ctrl-strs-B
-    duration: 120
+    duration: 1800

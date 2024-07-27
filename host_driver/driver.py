@@ -32,8 +32,8 @@ def main():
 
     kb = KeyboardIn()
     # Ensure email is configured correctly
-    #em_addr, em_pass = get_email_creds()
-    #setup_email(em_addr, em_pass)
+    # em_addr, em_pass = get_email_creds()
+    # setup_email(em_addr, em_pass)
     em_srv = EmailServerLink()
     # Connect to MongoDB
     dataset = login_to_database()
