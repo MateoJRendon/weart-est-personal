@@ -254,3 +254,24 @@ Error at 2024-07-17 17:20:39.521484
 
 Error at 2024-07-18 16:02:43.303944
 [Errno 5] Input/Output Error
+
+Error at 2024-07-25 22:12:22.817983
+name 'source_email' is not defined
+
+Error at 2024-07-29 15:26:20.798694
+[Errno 32] Pipe error
+
+Error at 2024-08-19 15:32:40.581364
+Connection unexpectedly closed: The read operation timed out
+
+Error at 2024-09-19 21:04:43.291476
+[Errno 110] Operation timed out
+
+Error at 2024-09-19 21:06:01.049473
+[Errno 110] Operation timed out
+
+Error at 2024-09-19 21:18:29.629121
+[Errno 110] Operation timed out
+
+Error at 2024-09-19 21:21:39.723288
+[Errno 110] Operation timed out

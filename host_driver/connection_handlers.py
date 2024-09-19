@@ -92,7 +92,7 @@ class EmailServerLink:
 
 ### DATABASE CONNECTION HANDLING ###
 
-DB_DATASET = 'pre-IDFBCAMQ-125C-15min'
+DB_DATASET = 'IDFBCAMQ-130C-500hrs'
 
 def login_to_database():
     tls_ca = certifi.where()
